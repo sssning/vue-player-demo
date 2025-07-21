@@ -9,8 +9,8 @@ dependencies:
     specifier: ^1.0.0
     version: 1.0.0(esbuild@0.25.6)(lottie-web@5.13.0)(react-dom@19.1.0)(sass-embedded@1.89.2)
   '@md_ai/vmml-textclip':
-    specifier: ^1.0.1
-    version: 1.0.1(esbuild@0.25.6)(sass-embedded@1.89.2)
+    specifier: ^1.0.2
+    version: 1.0.2(esbuild@0.25.6)(sass-embedded@1.89.2)
   '@versa_ai/vmml-player':
     specifier: ^1.1.6
     version: 1.1.6(esbuild@0.25.6)(lottie-web@5.13.0)(react-dom@19.1.0)(sass-embedded@1.89.2)
@@ -868,8 +868,8 @@ packages:
       - webpack-cli
     dev: false
 
-  /@md_ai/vmml-textclip@1.0.1(esbuild@0.25.6)(sass-embedded@1.89.2):
-    resolution: {integrity: sha512-XmCxpUt6TsgMU+9cyVrOtmxj9nb/GH30xlkXl49pcas4fnNAMVzMqHlaio/jA2eKKqpbM/vWYU1hU4tfbtGsdQ==}
+  /@md_ai/vmml-textclip@1.0.2(esbuild@0.25.6)(sass-embedded@1.89.2):
+    resolution: {integrity: sha512-ee4mW4PnrAhN50HXUHxzoCOXCRArt+rgNvxJguZ/6zHyBRBZdGZXSXJKjZNOUcclQlGMR2PE5ekxi36H3XH2nw==}
     dependencies:
       '@md_ai/vmml-utils': 1.0.0
       '@types/lodash.clonedeep': 4.5.9

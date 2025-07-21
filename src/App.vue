@@ -14,7 +14,7 @@
 import { applyPureReactInVue, setVeauryOptions } from 'veaury'
 import { VmmlPlayer } from '@md_ai/vmml-player';
 import { VmmlTextClip } from '@md_ai/vmml-textclip'
-import { reactive, onMounted, useTemplateRef } from 'vue';
+import { reactive, onMounted, ref } from 'vue';
 import { createRoot } from 'react-dom/client';
 import vmml from './vmml.json'
 import texts from './texts.json'
@@ -27,14 +27,14 @@ setVeauryOptions({
 
 const VuePlayer  = applyPureReactInVue(VmmlPlayer);
 const VueTextClip = applyPureReactInVue(VmmlTextClip);
-const playerRef = useTemplateRef('playerRef');
+const playerRef = ref('playerRef');
 
 const reactProps = reactive({
   vmml: vmml,
   amendmentFrame: true,
   controls: true,
   onPlayerReady: () => {
-    playerRef.value?.play()
+    console.log('player准备完成')
   }
 })
 
@@ -50,6 +50,7 @@ const textProps = reactive({
 onMounted(() => {
   setTimeout(() => {
     playerRef.value?.setVmml(vmml);
+    textProps.vmmlPlayer = playerRef.value.playerRef
   }, 100);
 })
 
