@@ -43,6 +43,7 @@ const textProps = reactive({
   vmmlPlayer: null,
   texts: texts,
   onVmmlChange: (vmml) => {
+    playerRef.value?.setVmml(vmml)
     console.log('vmml修改了', vmml)
   }
 })
