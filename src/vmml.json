@@ -1,0 +1,52 @@
+{
+    "version": "0.5",
+    "template": {
+        "bgColor": "00000000",
+        "thumbnailSourceUrl": "https://static01.versa-ai.com/b139471e-35a4-4567-9f0e-833386689ff5.mp4?x-oss-process=video/snapshot,m_fast,f_jpg,w_368,t_0,ar_auto",
+        "dimension": {
+            "height": 640,
+            "width": 368
+        },
+        "duration": 58174000,
+        "tracks": [
+            {
+                "id": "a9b3b93c-ba1-4fb7-93f7-b2ca036d5865",
+                "type": 0,
+                "clips": [
+                    {
+                        "type": 101,
+                        "id": "f99c8cac-8eb6-4e18-a65d-a69227d01388",
+                        "start": 0,
+                        "end": 58174000,
+                        "inPoint": 0,
+                        "duration": 58174000,
+                        "originDuration": 58174000,
+                        "videoClip": {
+                            "sourceUrl": "https://static01.versa-ai.com/b139471e-35a4-4567-9f0e-833386689ff5.mp4",
+                            "thumbnailSourceUrl": "https://static01.versa-ai.com/b139471e-35a4-4567-9f0e-833386689ff5.mp4?x-oss-process=video/snapshot,m_fast,f_jpg,w_368,t_0,ar_auto",
+                            "dimension": {
+                                "height": 640,
+                                "width": 368
+                            },
+                            "mimeType": "video/mp4",
+                            "posParam": {
+                                "rotationX": 0,
+                                "rotationY": 0,
+                                "rotationZ": 0,
+                                "scaleX": 1,
+                                "scaleY": 1,
+                                "scaleZ": 1,
+                                "centerX": 0.5,
+                                "centerY": 0.5,
+                                "centerZ": 0.5
+                            },
+                            "volume": 1,
+                            "constantSpeed": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "id": "5950c43c-a011-4c24-ad82-61e4a6b71e95"
+}

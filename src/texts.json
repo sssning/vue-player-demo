@@ -1,0 +1,2550 @@
+[
+    {
+        "id": "1cc5c66e-11fb-42ad-a0af-aa53f435cd49",
+        "start": 0,
+        "end": 0.32,
+        "text": "",
+        "isDeleted": false,
+        "isStartPause": true,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "1cc5c66e-11fb-42ad-a0af-aa53f435cd49",
+                "id": "1cc5c66e-11fb-42ad-a0af-aa53f435cd49-0",
+                "text": "",
+                "start": 0,
+                "end": 0.32,
+                "isBlank": true,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+        "start": 0.32,
+        "end": 3.48,
+        "text": "呃昨天收益了5块1毛8",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-0",
+                "text": "呃",
+                "start": 0.32,
+                "end": 0.504,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-1",
+                "text": "昨",
+                "start": 0.504,
+                "end": 0.76,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-2",
+                "text": "天",
+                "start": 0.76,
+                "end": 0.984,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-3",
+                "text": "收",
+                "start": 0.984,
+                "end": 1.16,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-4",
+                "text": "益",
+                "start": 1.16,
+                "end": 1.36,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-5",
+                "text": "了",
+                "start": 1.36,
+                "end": 1.6,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-6",
+                "text": "5",
+                "start": 1.6,
+                "end": 1.76,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-7",
+                "text": "块",
+                "start": 1.76,
+                "end": 1.92,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-8",
+                "text": "1",
+                "start": 1.92,
+                "end": 2.08,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-9",
+                "text": "毛",
+                "start": 2.08,
+                "end": 2.28,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-10",
+                "text": "8",
+                "start": 2.28,
+                "end": 2.82,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "22534746-ddb5-4b26-a2c7-eb2dae37a829",
+                "id": "22534746-ddb5-4b26-a2c7-eb2dae37a829-11",
+                "text": "",
+                "start": 2.82,
+                "end": 3.48,
+                "isBlank": true,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+        "start": 3.48,
+        "end": 5.92,
+        "text": "那5万多块钱的收益",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+                "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551-0",
+                "text": "那",
+                "start": 3.48,
+                "end": 3.76,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+                "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551-1",
+                "text": "5",
+                "start": 3.76,
+                "end": 3.96,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+                "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551-2",
+                "text": "万",
+                "start": 3.96,
+                "end": 4.16,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+                "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551-3",
+                "text": "多",
+                "start": 4.16,
+                "end": 4.32,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+                "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551-4",
+                "text": "块",
+                "start": 4.32,
+                "end": 4.52,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+                "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551-5",
+                "text": "钱",
+                "start": 4.52,
+                "end": 4.72,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+                "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551-6",
+                "text": "的",
+                "start": 4.72,
+                "end": 4.88,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+                "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551-7",
+                "text": "收",
+                "start": 4.88,
+                "end": 5.08,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+                "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551-8",
+                "text": "益",
+                "start": 5.08,
+                "end": 5.58,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "70b25253-51e6-4f5a-8cc0-eab1df8ec551",
+                "id": "70b25253-51e6-4f5a-8cc0-eab1df8ec551-9",
+                "text": "",
+                "start": 5.58,
+                "end": 5.92,
+                "isBlank": true,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "20f1ce9b-0a6c-4526-a867-007c98fdc360",
+        "start": 5.92,
+        "end": 7.32,
+        "text": "呃呃",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "20f1ce9b-0a6c-4526-a867-007c98fdc360",
+                "id": "20f1ce9b-0a6c-4526-a867-007c98fdc360-0",
+                "text": "呃",
+                "start": 5.92,
+                "end": 5.96,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "20f1ce9b-0a6c-4526-a867-007c98fdc360",
+                "id": "20f1ce9b-0a6c-4526-a867-007c98fdc360-1",
+                "text": "呃",
+                "start": 5.96,
+                "end": 7.32,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "3d5bbc2c-34c5-4bbf-afee-d6cfb0442be9",
+        "start": 7.32,
+        "end": 8.36,
+        "text": "不对不对",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "3d5bbc2c-34c5-4bbf-afee-d6cfb0442be9",
+                "id": "3d5bbc2c-34c5-4bbf-afee-d6cfb0442be9-0",
+                "text": "不",
+                "start": 7.32,
+                "end": 7.48,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "3d5bbc2c-34c5-4bbf-afee-d6cfb0442be9",
+                "id": "3d5bbc2c-34c5-4bbf-afee-d6cfb0442be9-1",
+                "text": "对",
+                "start": 7.48,
+                "end": 7.6,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "3d5bbc2c-34c5-4bbf-afee-d6cfb0442be9",
+                "id": "3d5bbc2c-34c5-4bbf-afee-d6cfb0442be9-2",
+                "text": "不",
+                "start": 7.6,
+                "end": 7.72,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "3d5bbc2c-34c5-4bbf-afee-d6cfb0442be9",
+                "id": "3d5bbc2c-34c5-4bbf-afee-d6cfb0442be9-3",
+                "text": "对",
+                "start": 7.72,
+                "end": 8.36,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+        "start": 8.36,
+        "end": 11.6,
+        "text": "那5万多块钱收益5块1毛8",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-0",
+                "text": "那",
+                "start": 8.36,
+                "end": 8.6,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-1",
+                "text": "5",
+                "start": 8.6,
+                "end": 8.8,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-2",
+                "text": "万",
+                "start": 8.8,
+                "end": 9,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-3",
+                "text": "多",
+                "start": 9,
+                "end": 9.2,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-4",
+                "text": "块",
+                "start": 9.2,
+                "end": 9.4,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-5",
+                "text": "钱",
+                "start": 9.4,
+                "end": 9.696,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-6",
+                "text": "",
+                "start": 9.696,
+                "end": 9.944,
+                "isBlank": true,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-7",
+                "text": "收",
+                "start": 9.944,
+                "end": 10.12,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-8",
+                "text": "益",
+                "start": 10.12,
+                "end": 10.36,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-9",
+                "text": "5",
+                "start": 10.36,
+                "end": 10.52,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-10",
+                "text": "块",
+                "start": 10.52,
+                "end": 10.68,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-11",
+                "text": "1",
+                "start": 10.68,
+                "end": 10.8,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-12",
+                "text": "毛",
+                "start": 10.8,
+                "end": 11,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6aad231-51a6-4ce6-a0f0-27161dcad517",
+                "id": "d6aad231-51a6-4ce6-a0f0-27161dcad517-13",
+                "text": "8",
+                "start": 11,
+                "end": 11.6,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "4fe25998-958e-44bd-89c2-6a749a84fefa",
+        "start": 11.6,
+        "end": 12.6,
+        "text": "也是可以的",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "4fe25998-958e-44bd-89c2-6a749a84fefa",
+                "id": "4fe25998-958e-44bd-89c2-6a749a84fefa-0",
+                "text": "也",
+                "start": 11.6,
+                "end": 11.84,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "4fe25998-958e-44bd-89c2-6a749a84fefa",
+                "id": "4fe25998-958e-44bd-89c2-6a749a84fefa-1",
+                "text": "是",
+                "start": 11.84,
+                "end": 11.92,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "4fe25998-958e-44bd-89c2-6a749a84fefa",
+                "id": "4fe25998-958e-44bd-89c2-6a749a84fefa-2",
+                "text": "可",
+                "start": 11.92,
+                "end": 12.12,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "4fe25998-958e-44bd-89c2-6a749a84fefa",
+                "id": "4fe25998-958e-44bd-89c2-6a749a84fefa-3",
+                "text": "以",
+                "start": 12.12,
+                "end": 12.28,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "4fe25998-958e-44bd-89c2-6a749a84fefa",
+                "id": "4fe25998-958e-44bd-89c2-6a749a84fefa-4",
+                "text": "的",
+                "start": 12.28,
+                "end": 12.6,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+        "start": 12.6,
+        "end": 15.52,
+        "text": "可以的今天的收益是嗯",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-0",
+                "text": "可",
+                "start": 12.6,
+                "end": 12.8,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-1",
+                "text": "以",
+                "start": 12.8,
+                "end": 12.92,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-2",
+                "text": "的",
+                "start": 12.92,
+                "end": 13.176,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-3",
+                "text": "",
+                "start": 13.176,
+                "end": 13.624,
+                "isBlank": true,
+                "isDeleted": false
+            },
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-4",
+                "text": "今",
+                "start": 13.624,
+                "end": 13.88,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-5",
+                "text": "天",
+                "start": 13.88,
+                "end": 14.08,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-6",
+                "text": "的",
+                "start": 14.08,
+                "end": 14.24,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-7",
+                "text": "收",
+                "start": 14.24,
+                "end": 14.44,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-8",
+                "text": "益",
+                "start": 14.44,
+                "end": 14.6,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-9",
+                "text": "是",
+                "start": 14.6,
+                "end": 15.144,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28",
+                "id": "84cb77df-50ed-4ecb-b17d-e83f1fe53f28-10",
+                "text": "嗯",
+                "start": 15.144,
+                "end": 15.52,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82",
+        "start": 15.52,
+        "end": 17.32,
+        "text": "我看一下",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82",
+                "id": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82-0",
+                "text": "我",
+                "start": 15.52,
+                "end": 15.76,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82",
+                "id": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82-1",
+                "text": "看",
+                "start": 15.76,
+                "end": 15.92,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82",
+                "id": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82-2",
+                "text": "一",
+                "start": 15.92,
+                "end": 15.96,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82",
+                "id": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82-3",
+                "text": "下",
+                "start": 15.96,
+                "end": 16.5,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82",
+                "id": "cf16e63b-193d-4a78-b1d0-34ad29c8ec82-4",
+                "text": "",
+                "start": 16.5,
+                "end": 17.32,
+                "isBlank": true,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3",
+        "start": 17.32,
+        "end": 18.08,
+        "text": "今天的收益",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3",
+                "id": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3-0",
+                "text": "今",
+                "start": 17.32,
+                "end": 17.52,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3",
+                "id": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3-1",
+                "text": "天",
+                "start": 17.52,
+                "end": 17.68,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3",
+                "id": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3-2",
+                "text": "的",
+                "start": 17.68,
+                "end": 17.8,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3",
+                "id": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3-3",
+                "text": "收",
+                "start": 17.8,
+                "end": 17.96,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3",
+                "id": "9843f57f-8b01-4d44-bec4-b9e57b7b37a3-4",
+                "text": "益",
+                "start": 17.96,
+                "end": 18.08,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "2307d78d-175e-4859-aa68-a80112aa19e9",
+        "start": 18.08,
+        "end": 21.72,
+        "text": "已经更新到是这个2块3毛3",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-0",
+                "text": "已",
+                "start": 18.08,
+                "end": 18.28,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-1",
+                "text": "经",
+                "start": 18.28,
+                "end": 18.584,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-2",
+                "text": "更",
+                "start": 18.584,
+                "end": 18.84,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-3",
+                "text": "新",
+                "start": 18.84,
+                "end": 19.04,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-4",
+                "text": "到",
+                "start": 19.04,
+                "end": 19.264,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-5",
+                "text": "是",
+                "start": 19.264,
+                "end": 19.4,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-6",
+                "text": "这",
+                "start": 19.4,
+                "end": 19.52,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-7",
+                "text": "个",
+                "start": 19.52,
+                "end": 19.64,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-8",
+                "text": "2",
+                "start": 19.64,
+                "end": 19.84,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-9",
+                "text": "块",
+                "start": 19.84,
+                "end": 20.064,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-10",
+                "text": "3",
+                "start": 20.064,
+                "end": 20.24,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-11",
+                "text": "毛",
+                "start": 20.24,
+                "end": 20.424,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-12",
+                "text": "3",
+                "start": 20.424,
+                "end": 20.94,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2307d78d-175e-4859-aa68-a80112aa19e9",
+                "id": "2307d78d-175e-4859-aa68-a80112aa19e9-13",
+                "text": "",
+                "start": 20.94,
+                "end": 21.72,
+                "isBlank": true,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+        "start": 21.72,
+        "end": 24.72,
+        "text": "然后现在我自己的资产总资产啊",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-0",
+                "text": "然",
+                "start": 21.72,
+                "end": 21.8,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-1",
+                "text": "后",
+                "start": 21.8,
+                "end": 22.04,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-2",
+                "text": "现",
+                "start": 22.04,
+                "end": 22.24,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-3",
+                "text": "在",
+                "start": 22.24,
+                "end": 22.664,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-4",
+                "text": "我",
+                "start": 22.664,
+                "end": 23,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-5",
+                "text": "自",
+                "start": 23,
+                "end": 23.16,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-6",
+                "text": "己",
+                "start": 23.16,
+                "end": 23.28,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-7",
+                "text": "的",
+                "start": 23.28,
+                "end": 23.4,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-8",
+                "text": "资",
+                "start": 23.4,
+                "end": 23.584,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-9",
+                "text": "产",
+                "start": 23.584,
+                "end": 23.944,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-10",
+                "text": "总",
+                "start": 23.944,
+                "end": 24.24,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-11",
+                "text": "资",
+                "start": 24.24,
+                "end": 24.36,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-12",
+                "text": "产",
+                "start": 24.36,
+                "end": 24.52,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "c767a407-c5ce-4e71-99dc-44e03bfbc34d",
+                "id": "c767a407-c5ce-4e71-99dc-44e03bfbc34d-13",
+                "text": "啊",
+                "start": 24.52,
+                "end": 24.72,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+        "start": 24.72,
+        "end": 27.2,
+        "text": "已经有这个15万多了",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+                "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa-0",
+                "text": "已",
+                "start": 24.72,
+                "end": 24.88,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+                "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa-1",
+                "text": "经",
+                "start": 24.88,
+                "end": 25,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+                "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa-2",
+                "text": "有",
+                "start": 25,
+                "end": 25.24,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+                "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa-3",
+                "text": "这",
+                "start": 25.24,
+                "end": 25.36,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+                "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa-4",
+                "text": "个",
+                "start": 25.36,
+                "end": 25.704,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+                "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa-5",
+                "text": "1",
+                "start": 25.704,
+                "end": 25.92,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+                "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa-6",
+                "text": "5",
+                "start": 25.92,
+                "end": 26.12,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+                "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa-7",
+                "text": "万",
+                "start": 26.12,
+                "end": 26.264,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+                "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa-8",
+                "text": "多",
+                "start": 26.264,
+                "end": 26.48,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fa2ef7b8-728d-41ce-9489-071df72b4aaa",
+                "id": "fa2ef7b8-728d-41ce-9489-071df72b4aaa-9",
+                "text": "了",
+                "start": 26.48,
+                "end": 27.2,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+        "start": 27.2,
+        "end": 29.04,
+        "text": "估计下个月一发工资啊",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+                "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2-0",
+                "text": "估",
+                "start": 27.2,
+                "end": 27.4,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+                "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2-1",
+                "text": "计",
+                "start": 27.4,
+                "end": 27.52,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+                "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2-2",
+                "text": "下",
+                "start": 27.52,
+                "end": 27.72,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+                "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2-3",
+                "text": "个",
+                "start": 27.72,
+                "end": 27.84,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+                "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2-4",
+                "text": "月",
+                "start": 27.84,
+                "end": 28.04,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+                "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2-5",
+                "text": "一",
+                "start": 28.04,
+                "end": 28.2,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+                "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2-6",
+                "text": "发",
+                "start": 28.2,
+                "end": 28.36,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+                "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2-7",
+                "text": "工",
+                "start": 28.36,
+                "end": 28.56,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+                "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2-8",
+                "text": "资",
+                "start": 28.56,
+                "end": 28.824,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2",
+                "id": "5b6c8524-69bc-4cf3-af4d-0b758874e8f2-9",
+                "text": "啊",
+                "start": 28.824,
+                "end": 29.04,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "ac7e390c-6be9-4450-b581-a069f30f9c58",
+        "start": 29.04,
+        "end": 30.72,
+        "text": "就能到这个16万",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "ac7e390c-6be9-4450-b581-a069f30f9c58",
+                "id": "ac7e390c-6be9-4450-b581-a069f30f9c58-0",
+                "text": "就",
+                "start": 29.04,
+                "end": 29.2,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ac7e390c-6be9-4450-b581-a069f30f9c58",
+                "id": "ac7e390c-6be9-4450-b581-a069f30f9c58-1",
+                "text": "能",
+                "start": 29.2,
+                "end": 29.32,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ac7e390c-6be9-4450-b581-a069f30f9c58",
+                "id": "ac7e390c-6be9-4450-b581-a069f30f9c58-2",
+                "text": "到",
+                "start": 29.32,
+                "end": 29.584,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ac7e390c-6be9-4450-b581-a069f30f9c58",
+                "id": "ac7e390c-6be9-4450-b581-a069f30f9c58-3",
+                "text": "这",
+                "start": 29.584,
+                "end": 29.72,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ac7e390c-6be9-4450-b581-a069f30f9c58",
+                "id": "ac7e390c-6be9-4450-b581-a069f30f9c58-4",
+                "text": "个",
+                "start": 29.72,
+                "end": 29.84,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ac7e390c-6be9-4450-b581-a069f30f9c58",
+                "id": "ac7e390c-6be9-4450-b581-a069f30f9c58-5",
+                "text": "1",
+                "start": 29.84,
+                "end": 30.02,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ac7e390c-6be9-4450-b581-a069f30f9c58",
+                "id": "ac7e390c-6be9-4450-b581-a069f30f9c58-6",
+                "text": "6",
+                "start": 30.02,
+                "end": 30.2,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ac7e390c-6be9-4450-b581-a069f30f9c58",
+                "id": "ac7e390c-6be9-4450-b581-a069f30f9c58-7",
+                "text": "万",
+                "start": 30.2,
+                "end": 30.72,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4",
+        "start": 30.72,
+        "end": 31.68,
+        "text": "这个对我来说呢",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4",
+                "id": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4-0",
+                "text": "这",
+                "start": 30.72,
+                "end": 30.84,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4",
+                "id": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4-1",
+                "text": "个",
+                "start": 30.84,
+                "end": 30.92,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4",
+                "id": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4-2",
+                "text": "对",
+                "start": 30.92,
+                "end": 31.08,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4",
+                "id": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4-3",
+                "text": "我",
+                "start": 31.08,
+                "end": 31.2,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4",
+                "id": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4-4",
+                "text": "来",
+                "start": 31.2,
+                "end": 31.4,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4",
+                "id": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4-5",
+                "text": "说",
+                "start": 31.4,
+                "end": 31.6,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4",
+                "id": "54cd0df4-eba9-4c1b-8fed-22d4b014aee4-6",
+                "text": "呢",
+                "start": 31.6,
+                "end": 31.68,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d",
+        "start": 31.68,
+        "end": 32.98,
+        "text": "还是比较开心的",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d",
+                "id": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d-0",
+                "text": "还",
+                "start": 31.68,
+                "end": 31.8,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d",
+                "id": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d-1",
+                "text": "是",
+                "start": 31.8,
+                "end": 31.88,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d",
+                "id": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d-2",
+                "text": "比",
+                "start": 31.88,
+                "end": 31.96,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d",
+                "id": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d-3",
+                "text": "较",
+                "start": 31.96,
+                "end": 32.12,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d",
+                "id": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d-4",
+                "text": "开",
+                "start": 32.12,
+                "end": 32.32,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d",
+                "id": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d-5",
+                "text": "心",
+                "start": 32.32,
+                "end": 32.48,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d",
+                "id": "d6f2e1c2-e6f3-448b-a93a-e28635f7155d-6",
+                "text": "的",
+                "start": 32.48,
+                "end": 32.98,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "16e9f2fb-f1cd-475a-96ee-3f448910e925",
+        "start": 32.98,
+        "end": 34.96,
+        "text": "",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "16e9f2fb-f1cd-475a-96ee-3f448910e925",
+                "id": "16e9f2fb-f1cd-475a-96ee-3f448910e925-0",
+                "text": "",
+                "start": 32.98,
+                "end": 34.96,
+                "isBlank": true,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a",
+        "start": 34.96,
+        "end": 36.8,
+        "text": "昨天更新的明细",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a",
+                "id": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a-0",
+                "text": "昨",
+                "start": 34.96,
+                "end": 35.2,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a",
+                "id": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a-1",
+                "text": "天",
+                "start": 35.2,
+                "end": 35.4,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a",
+                "id": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a-2",
+                "text": "更",
+                "start": 35.4,
+                "end": 35.6,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a",
+                "id": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a-3",
+                "text": "新",
+                "start": 35.6,
+                "end": 35.76,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a",
+                "id": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a-4",
+                "text": "的",
+                "start": 35.76,
+                "end": 35.96,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a",
+                "id": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a-5",
+                "text": "明",
+                "start": 35.96,
+                "end": 36.184,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a",
+                "id": "38c529a2-93f1-4cd1-ac09-3d9bed57de6a-6",
+                "text": "细",
+                "start": 36.184,
+                "end": 36.8,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "ed8a2248-4c2d-483f-b0b3-ea7053327571",
+        "start": 36.8,
+        "end": 38.8,
+        "text": "昨昨天更新的明细",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "ed8a2248-4c2d-483f-b0b3-ea7053327571",
+                "id": "ed8a2248-4c2d-483f-b0b3-ea7053327571-0",
+                "text": "昨",
+                "start": 36.8,
+                "end": 36.856,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ed8a2248-4c2d-483f-b0b3-ea7053327571",
+                "id": "ed8a2248-4c2d-483f-b0b3-ea7053327571-1",
+                "text": "",
+                "start": 36.856,
+                "end": 37.624,
+                "isBlank": true,
+                "isDeleted": false
+            },
+            {
+                "parent": "ed8a2248-4c2d-483f-b0b3-ea7053327571",
+                "id": "ed8a2248-4c2d-483f-b0b3-ea7053327571-2",
+                "text": "昨",
+                "start": 37.624,
+                "end": 37.8,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ed8a2248-4c2d-483f-b0b3-ea7053327571",
+                "id": "ed8a2248-4c2d-483f-b0b3-ea7053327571-3",
+                "text": "天",
+                "start": 37.8,
+                "end": 38,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ed8a2248-4c2d-483f-b0b3-ea7053327571",
+                "id": "ed8a2248-4c2d-483f-b0b3-ea7053327571-4",
+                "text": "更",
+                "start": 38,
+                "end": 38.16,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ed8a2248-4c2d-483f-b0b3-ea7053327571",
+                "id": "ed8a2248-4c2d-483f-b0b3-ea7053327571-5",
+                "text": "新",
+                "start": 38.16,
+                "end": 38.32,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ed8a2248-4c2d-483f-b0b3-ea7053327571",
+                "id": "ed8a2248-4c2d-483f-b0b3-ea7053327571-6",
+                "text": "的",
+                "start": 38.32,
+                "end": 38.44,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ed8a2248-4c2d-483f-b0b3-ea7053327571",
+                "id": "ed8a2248-4c2d-483f-b0b3-ea7053327571-7",
+                "text": "明",
+                "start": 38.44,
+                "end": 38.624,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "ed8a2248-4c2d-483f-b0b3-ea7053327571",
+                "id": "ed8a2248-4c2d-483f-b0b3-ea7053327571-8",
+                "text": "细",
+                "start": 38.624,
+                "end": 38.8,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "1d4f1b02-7a43-495a-93a6-548925dfe783",
+        "start": 38.8,
+        "end": 41,
+        "text": "主要是货币基金吧",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "1d4f1b02-7a43-495a-93a6-548925dfe783",
+                "id": "1d4f1b02-7a43-495a-93a6-548925dfe783-0",
+                "text": "主",
+                "start": 38.8,
+                "end": 38.96,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1d4f1b02-7a43-495a-93a6-548925dfe783",
+                "id": "1d4f1b02-7a43-495a-93a6-548925dfe783-1",
+                "text": "要",
+                "start": 38.96,
+                "end": 39.08,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1d4f1b02-7a43-495a-93a6-548925dfe783",
+                "id": "1d4f1b02-7a43-495a-93a6-548925dfe783-2",
+                "text": "是",
+                "start": 39.08,
+                "end": 39.24,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1d4f1b02-7a43-495a-93a6-548925dfe783",
+                "id": "1d4f1b02-7a43-495a-93a6-548925dfe783-3",
+                "text": "货",
+                "start": 39.24,
+                "end": 39.36,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1d4f1b02-7a43-495a-93a6-548925dfe783",
+                "id": "1d4f1b02-7a43-495a-93a6-548925dfe783-4",
+                "text": "币",
+                "start": 39.36,
+                "end": 39.52,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1d4f1b02-7a43-495a-93a6-548925dfe783",
+                "id": "1d4f1b02-7a43-495a-93a6-548925dfe783-5",
+                "text": "基",
+                "start": 39.52,
+                "end": 39.68,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1d4f1b02-7a43-495a-93a6-548925dfe783",
+                "id": "1d4f1b02-7a43-495a-93a6-548925dfe783-6",
+                "text": "金",
+                "start": 39.68,
+                "end": 39.84,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1d4f1b02-7a43-495a-93a6-548925dfe783",
+                "id": "1d4f1b02-7a43-495a-93a6-548925dfe783-7",
+                "text": "吧",
+                "start": 39.84,
+                "end": 40.38,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1d4f1b02-7a43-495a-93a6-548925dfe783",
+                "id": "1d4f1b02-7a43-495a-93a6-548925dfe783-8",
+                "text": "",
+                "start": 40.38,
+                "end": 41,
+                "isBlank": true,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "5d2d6d1e-66a8-4cc2-b1d2-e8bd80e54428",
+        "start": 41,
+        "end": 42.16,
+        "text": "就是我主",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "5d2d6d1e-66a8-4cc2-b1d2-e8bd80e54428",
+                "id": "5d2d6d1e-66a8-4cc2-b1d2-e8bd80e54428-0",
+                "text": "就",
+                "start": 41,
+                "end": 41.2,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5d2d6d1e-66a8-4cc2-b1d2-e8bd80e54428",
+                "id": "5d2d6d1e-66a8-4cc2-b1d2-e8bd80e54428-1",
+                "text": "是",
+                "start": 41.2,
+                "end": 41.32,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5d2d6d1e-66a8-4cc2-b1d2-e8bd80e54428",
+                "id": "5d2d6d1e-66a8-4cc2-b1d2-e8bd80e54428-2",
+                "text": "我",
+                "start": 41.32,
+                "end": 41.624,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "5d2d6d1e-66a8-4cc2-b1d2-e8bd80e54428",
+                "id": "5d2d6d1e-66a8-4cc2-b1d2-e8bd80e54428-3",
+                "text": "主",
+                "start": 41.624,
+                "end": 42.16,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "a7820e8c-acac-41c1-8f2d-098734a75f17",
+        "start": 42.16,
+        "end": 42.72,
+        "text": "呃",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "a7820e8c-acac-41c1-8f2d-098734a75f17",
+                "id": "a7820e8c-acac-41c1-8f2d-098734a75f17-0",
+                "text": "呃",
+                "start": 42.16,
+                "end": 42.72,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "1c82feb6-436f-4008-aa59-df4118f16911",
+        "start": 42.72,
+        "end": 46.24,
+        "text": "我主要的钱都主要是放在货币基金里",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-0",
+                "text": "我",
+                "start": 42.72,
+                "end": 43.08,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-1",
+                "text": "主",
+                "start": 43.08,
+                "end": 43.24,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-2",
+                "text": "要",
+                "start": 43.24,
+                "end": 43.36,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-3",
+                "text": "的",
+                "start": 43.36,
+                "end": 43.56,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-4",
+                "text": "钱",
+                "start": 43.56,
+                "end": 43.904,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-5",
+                "text": "都",
+                "start": 43.904,
+                "end": 44.08,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-6",
+                "text": "主",
+                "start": 44.08,
+                "end": 44.2,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-7",
+                "text": "要",
+                "start": 44.2,
+                "end": 44.36,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-8",
+                "text": "是",
+                "start": 44.36,
+                "end": 44.48,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-9",
+                "text": "放",
+                "start": 44.48,
+                "end": 44.64,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-10",
+                "text": "在",
+                "start": 44.64,
+                "end": 44.92,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-11",
+                "text": "货",
+                "start": 44.92,
+                "end": 45.08,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-12",
+                "text": "币",
+                "start": 45.08,
+                "end": 45.24,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-13",
+                "text": "基",
+                "start": 45.24,
+                "end": 45.36,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-14",
+                "text": "金",
+                "start": 45.36,
+                "end": 45.52,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "1c82feb6-436f-4008-aa59-df4118f16911",
+                "id": "1c82feb6-436f-4008-aa59-df4118f16911-15",
+                "text": "里",
+                "start": 45.52,
+                "end": 46.24,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06",
+        "start": 46.24,
+        "end": 47.8,
+        "text": "你看这几货币基",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06",
+                "id": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06-0",
+                "text": "你",
+                "start": 46.24,
+                "end": 46.44,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06",
+                "id": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06-1",
+                "text": "看",
+                "start": 46.44,
+                "end": 46.6,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06",
+                "id": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06-2",
+                "text": "这",
+                "start": 46.6,
+                "end": 46.72,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06",
+                "id": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06-3",
+                "text": "几",
+                "start": 46.72,
+                "end": 46.88,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06",
+                "id": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06-4",
+                "text": "货",
+                "start": 46.88,
+                "end": 47.04,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06",
+                "id": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06-5",
+                "text": "币",
+                "start": 47.04,
+                "end": 47.2,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06",
+                "id": "f4c1a2fa-941b-4b6e-b7e7-d82954714f06-6",
+                "text": "基",
+                "start": 47.2,
+                "end": 47.8,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "3356ab56-d8fd-47ce-a375-9d727c9e6204",
+        "start": 47.8,
+        "end": 48.76,
+        "text": "看这货币基金",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "3356ab56-d8fd-47ce-a375-9d727c9e6204",
+                "id": "3356ab56-d8fd-47ce-a375-9d727c9e6204-0",
+                "text": "看",
+                "start": 47.8,
+                "end": 48.04,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "3356ab56-d8fd-47ce-a375-9d727c9e6204",
+                "id": "3356ab56-d8fd-47ce-a375-9d727c9e6204-1",
+                "text": "这",
+                "start": 48.04,
+                "end": 48.144,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "3356ab56-d8fd-47ce-a375-9d727c9e6204",
+                "id": "3356ab56-d8fd-47ce-a375-9d727c9e6204-2",
+                "text": "货",
+                "start": 48.144,
+                "end": 48.28,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "3356ab56-d8fd-47ce-a375-9d727c9e6204",
+                "id": "3356ab56-d8fd-47ce-a375-9d727c9e6204-3",
+                "text": "币",
+                "start": 48.28,
+                "end": 48.44,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "3356ab56-d8fd-47ce-a375-9d727c9e6204",
+                "id": "3356ab56-d8fd-47ce-a375-9d727c9e6204-4",
+                "text": "基",
+                "start": 48.44,
+                "end": 48.6,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "3356ab56-d8fd-47ce-a375-9d727c9e6204",
+                "id": "3356ab56-d8fd-47ce-a375-9d727c9e6204-5",
+                "text": "金",
+                "start": 48.6,
+                "end": 48.76,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "11532598-db23-4617-8612-2b3afd9df1bd",
+        "start": 48.76,
+        "end": 51.16,
+        "text": "主要也赚了1,000多块钱",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-0",
+                "text": "主",
+                "start": 48.76,
+                "end": 48.92,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-1",
+                "text": "要",
+                "start": 48.92,
+                "end": 49.08,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-2",
+                "text": "也",
+                "start": 49.08,
+                "end": 49.24,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-3",
+                "text": "赚",
+                "start": 49.24,
+                "end": 49.4,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-4",
+                "text": "了",
+                "start": 49.4,
+                "end": 49.6,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-5",
+                "text": "1",
+                "start": 49.6,
+                "end": 49.648,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-6",
+                "text": ",",
+                "start": 49.648,
+                "end": 49.696,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-7",
+                "text": "0",
+                "start": 49.696,
+                "end": 49.744,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-8",
+                "text": "0",
+                "start": 49.744,
+                "end": 49.792,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-9",
+                "text": "0",
+                "start": 49.792,
+                "end": 49.84,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-10",
+                "text": "多",
+                "start": 49.84,
+                "end": 49.96,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-11",
+                "text": "块",
+                "start": 49.96,
+                "end": 50.12,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-12",
+                "text": "钱",
+                "start": 50.12,
+                "end": 50.7,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "11532598-db23-4617-8612-2b3afd9df1bd",
+                "id": "11532598-db23-4617-8612-2b3afd9df1bd-13",
+                "text": "",
+                "start": 50.7,
+                "end": 51.16,
+                "isBlank": true,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "582bf3c1-f5b9-419c-b056-2e7545e3cb35",
+        "start": 51.16,
+        "end": 52.24,
+        "text": "其实内心啊",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "582bf3c1-f5b9-419c-b056-2e7545e3cb35",
+                "id": "582bf3c1-f5b9-419c-b056-2e7545e3cb35-0",
+                "text": "其",
+                "start": 51.16,
+                "end": 51.36,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "582bf3c1-f5b9-419c-b056-2e7545e3cb35",
+                "id": "582bf3c1-f5b9-419c-b056-2e7545e3cb35-1",
+                "text": "实",
+                "start": 51.36,
+                "end": 51.48,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "582bf3c1-f5b9-419c-b056-2e7545e3cb35",
+                "id": "582bf3c1-f5b9-419c-b056-2e7545e3cb35-2",
+                "text": "内",
+                "start": 51.48,
+                "end": 51.72,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "582bf3c1-f5b9-419c-b056-2e7545e3cb35",
+                "id": "582bf3c1-f5b9-419c-b056-2e7545e3cb35-3",
+                "text": "心",
+                "start": 51.72,
+                "end": 51.88,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "582bf3c1-f5b9-419c-b056-2e7545e3cb35",
+                "id": "582bf3c1-f5b9-419c-b056-2e7545e3cb35-4",
+                "text": "啊",
+                "start": 51.88,
+                "end": 52.24,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69",
+        "start": 52.24,
+        "end": 53.32,
+        "text": "还是挺有感觉的",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69",
+                "id": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69-0",
+                "text": "还",
+                "start": 52.24,
+                "end": 52.4,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69",
+                "id": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69-1",
+                "text": "是",
+                "start": 52.4,
+                "end": 52.48,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69",
+                "id": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69-2",
+                "text": "挺",
+                "start": 52.48,
+                "end": 52.64,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69",
+                "id": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69-3",
+                "text": "有",
+                "start": 52.64,
+                "end": 52.76,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69",
+                "id": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69-4",
+                "text": "感",
+                "start": 52.76,
+                "end": 53,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69",
+                "id": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69-5",
+                "text": "觉",
+                "start": 53,
+                "end": 53.2,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69",
+                "id": "fef0f27e-875f-4ea1-a61b-5a8f588c9e69-6",
+                "text": "的",
+                "start": 53.2,
+                "end": 53.32,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "e72cf7cd-4f09-4cb4-9dd5-36b7d16723ab",
+        "start": 53.32,
+        "end": 54.44,
+        "text": "挺兴奋的",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "e72cf7cd-4f09-4cb4-9dd5-36b7d16723ab",
+                "id": "e72cf7cd-4f09-4cb4-9dd5-36b7d16723ab-0",
+                "text": "挺",
+                "start": 53.32,
+                "end": 53.504,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "e72cf7cd-4f09-4cb4-9dd5-36b7d16723ab",
+                "id": "e72cf7cd-4f09-4cb4-9dd5-36b7d16723ab-1",
+                "text": "兴",
+                "start": 53.504,
+                "end": 53.64,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "e72cf7cd-4f09-4cb4-9dd5-36b7d16723ab",
+                "id": "e72cf7cd-4f09-4cb4-9dd5-36b7d16723ab-2",
+                "text": "奋",
+                "start": 53.64,
+                "end": 53.84,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "e72cf7cd-4f09-4cb4-9dd5-36b7d16723ab",
+                "id": "e72cf7cd-4f09-4cb4-9dd5-36b7d16723ab-3",
+                "text": "的",
+                "start": 53.84,
+                "end": 54.44,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "be560b11-c432-4f29-8714-24fa60cc03b3",
+        "start": 54.44,
+        "end": 55.92,
+        "text": "这个嗯",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "be560b11-c432-4f29-8714-24fa60cc03b3",
+                "id": "be560b11-c432-4f29-8714-24fa60cc03b3-0",
+                "text": "这",
+                "start": 54.44,
+                "end": 54.68,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "be560b11-c432-4f29-8714-24fa60cc03b3",
+                "id": "be560b11-c432-4f29-8714-24fa60cc03b3-1",
+                "text": "个",
+                "start": 54.68,
+                "end": 55.056,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "be560b11-c432-4f29-8714-24fa60cc03b3",
+                "id": "be560b11-c432-4f29-8714-24fa60cc03b3-2",
+                "text": "",
+                "start": 55.056,
+                "end": 55.384,
+                "isBlank": true,
+                "isDeleted": false
+            },
+            {
+                "parent": "be560b11-c432-4f29-8714-24fa60cc03b3",
+                "id": "be560b11-c432-4f29-8714-24fa60cc03b3-3",
+                "text": "嗯",
+                "start": 55.384,
+                "end": 55.92,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    },
+    {
+        "id": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+        "start": 55.92,
+        "end": 58.172,
+        "text": "债券基金涨势也挺不错的",
+        "isDeleted": false,
+        "isStartPause": false,
+        "isEndPause": false,
+        "words": [
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-0",
+                "text": "债",
+                "start": 55.92,
+                "end": 56.08,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-1",
+                "text": "券",
+                "start": 56.08,
+                "end": 56.264,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-2",
+                "text": "基",
+                "start": 56.264,
+                "end": 56.44,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-3",
+                "text": "金",
+                "start": 56.44,
+                "end": 56.784,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-4",
+                "text": "涨",
+                "start": 56.784,
+                "end": 57.024,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-5",
+                "text": "势",
+                "start": 57.024,
+                "end": 57.24,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-6",
+                "text": "也",
+                "start": 57.24,
+                "end": 57.44,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-7",
+                "text": "挺",
+                "start": 57.44,
+                "end": 57.6,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-8",
+                "text": "不",
+                "start": 57.6,
+                "end": 57.72,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-9",
+                "text": "错",
+                "start": 57.72,
+                "end": 57.92,
+                "isBlank": false,
+                "isDeleted": false
+            },
+            {
+                "parent": "2dd5f241-249a-42a5-873e-11d11ec99f41",
+                "id": "2dd5f241-249a-42a5-873e-11d11ec99f41-10",
+                "text": "的",
+                "start": 57.92,
+                "end": 58.172,
+                "isBlank": false,
+                "isDeleted": false
+            }
+        ]
+    }
+]
