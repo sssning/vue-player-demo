@@ -6,11 +6,11 @@ settings:
 
 dependencies:
   '@md_ai/vmml-player':
-    specifier: ^1.0.4
-    version: 1.0.4(esbuild@0.25.8)(lottie-web@5.13.0)(react-dom@19.1.0)(sass-embedded@1.89.2)
+    specifier: ^1.0.17
+    version: 1.0.17(esbuild@0.25.8)(lottie-web@5.13.0)(react-dom@19.1.0)(sass-embedded@1.89.2)
   '@md_ai/vmml-textclip':
-    specifier: ^1.0.4
-    version: 1.0.4(esbuild@0.25.8)(sass-embedded@1.89.2)
+    specifier: ^1.0.17
+    version: 1.0.17(esbuild@0.25.8)(react-dom@19.1.0)(sass-embedded@1.89.2)
   '@vitejs/plugin-react':
     specifier: ^4.7.0
     version: 4.7.0(vite@7.0.5)
@@ -827,11 +827,11 @@ packages:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.4
 
-  /@md_ai/vmml-player@1.0.4(esbuild@0.25.8)(lottie-web@5.13.0)(react-dom@19.1.0)(sass-embedded@1.89.2):
-    resolution: {integrity: sha512-owctJRuRniWtg9XeHVuy3BEfl0FtzVwcDwWare6WrWwTSif4ne1EJmFubOTxYZiAd1DqY6fEVDBo5ytbuGv2dA==}
+  /@md_ai/vmml-player@1.0.17(esbuild@0.25.8)(lottie-web@5.13.0)(react-dom@19.1.0)(sass-embedded@1.89.2):
+    resolution: {integrity: sha512-+t2KgNZM/iVb8xc/QAIjgSUTsKCtg6MtNfyEDhp0wAAtUn55kqdoBiapg0msJl/h0AL6hLYZmG4+BBvVdHd13Q==}
     dependencies:
       '@gsap/react': 2.1.2(gsap@3.13.0)(react@18.3.1)
-      '@md_ai/vmml-utils': 1.0.4
+      '@md_ai/vmml-utils': 1.0.17
       '@remotion/bundler': 4.0.166(react-dom@19.1.0)(react@18.3.1)
       '@remotion/fonts': 4.0.166(react-dom@19.1.0)(react@18.3.1)
       '@remotion/lottie': 4.0.166(lottie-web@5.13.0)(react-dom@19.1.0)(react@18.3.1)
@@ -865,10 +865,10 @@ packages:
       - webpack-cli
     dev: false
 
-  /@md_ai/vmml-textclip@1.0.4(esbuild@0.25.8)(sass-embedded@1.89.2):
-    resolution: {integrity: sha512-DnvKk/QgldxLv8bTOFsQEfIjmhKwaDAO66VGtz7k3QMCEnb/xTAfcXGdUu68GmmTlsFBA9ry2NldRdm1KwIsbA==}
+  /@md_ai/vmml-textclip@1.0.17(esbuild@0.25.8)(react-dom@19.1.0)(sass-embedded@1.89.2):
+    resolution: {integrity: sha512-z86X46b2bArOm0onIEA4+GkvKS29ruxQzZqMRG2bDoEcj9MKP98KY96fGPbX9cdBkLeNnavo6fAMo7D4YMyIOw==}
     dependencies:
-      '@md_ai/vmml-utils': 1.0.4
+      '@md_ai/vmml-utils': 1.0.17
       '@types/lodash.clonedeep': 4.5.9
       '@types/react': 18.3.23
       '@types/react-dom': 18.3.7(@types/react@18.3.23)
@@ -878,14 +878,16 @@ packages:
       esbuild-sass-plugin: 3.3.1(esbuild@0.25.8)(sass-embedded@1.89.2)
       lodash.clonedeep: 4.5.0
       react: 18.3.1
+      react-virtuoso: 4.14.0(react-dom@19.1.0)(react@18.3.1)
       uuid: 10.0.0
     transitivePeerDependencies:
       - esbuild
+      - react-dom
       - sass-embedded
     dev: false
 
-  /@md_ai/vmml-utils@1.0.4:
-    resolution: {integrity: sha512-KcFRyEnDX2EkqOa5TzXs0292h+pF6r6wmBauQc5+T2MerMK8oFsG5VHji64RTuuK35M8ySMm2xmugI80OEpctw==}
+  /@md_ai/vmml-utils@1.0.17:
+    resolution: {integrity: sha512-0qm06J1JLugvAI5U0604WS5nD4tpcgsyt8ktNQmQdoWGN0mUXekIX9+l17l55TNICvsStrZnoqRL/XSDuzf3/w==}
     dependencies:
       decimal.js: 10.6.0
       idb-keyval: 6.2.2
@@ -3473,6 +3475,16 @@ packages:
   /react-refresh@0.9.0:
     resolution: {integrity: sha512-Gvzk7OZpiqKSkxsQvO/mbTN1poglhmAV7gR/DdIrRrSMXraRQQlfikRJOr3Nb9GTMPC5kof948Zy6jJZIFtDvQ==}
     engines: {node: '>=0.10.0'}
+    dev: false
+
+  /react-virtuoso@4.14.0(react-dom@19.1.0)(react@18.3.1):
+    resolution: {integrity: sha512-fR+eiCvirSNIRvvCD7ueJPRsacGQvUbjkwgWzBZXVq+yWypoH7mRUvWJzGHIdoRaCZCT+6mMMMwIG2S1BW3uwA==}
+    peerDependencies:
+      react: '>=16 || >=17 || >= 18 || >= 19'
+      react-dom: '>=16 || >=17 || >= 18 || >=19'
+    dependencies:
+      react: 18.3.1
+      react-dom: 19.1.0(react@19.1.0)
     dev: false
 
   /react@18.3.1:
